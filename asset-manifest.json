@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gi/static/css/main.f26a73ba.chunk.css",
+    "main.js": "/gi/static/js/main.bab8f011.chunk.js",
+    "main.js.map": "/gi/static/js/main.bab8f011.chunk.js.map",
+    "runtime-main.js": "/gi/static/js/runtime-main.34759a4c.js",
+    "runtime-main.js.map": "/gi/static/js/runtime-main.34759a4c.js.map",
+    "static/css/2.69f3e74d.chunk.css": "/gi/static/css/2.69f3e74d.chunk.css",
+    "static/js/2.3a50ae49.chunk.js": "/gi/static/js/2.3a50ae49.chunk.js",
+    "static/js/2.3a50ae49.chunk.js.map": "/gi/static/js/2.3a50ae49.chunk.js.map",
+    "index.html": "/gi/index.html",
+    "static/css/2.69f3e74d.chunk.css.map": "/gi/static/css/2.69f3e74d.chunk.css.map",
+    "static/css/main.f26a73ba.chunk.css.map": "/gi/static/css/main.f26a73ba.chunk.css.map",
+    "static/js/2.3a50ae49.chunk.js.LICENSE.txt": "/gi/static/js/2.3a50ae49.chunk.js.LICENSE.txt",
+    "static/media/Home.51175a60.jpg": "/gi/static/media/Home.51175a60.jpg",
+    "static/media/shubham.3ded4c55.jpg": "/gi/static/media/shubham.3ded4c55.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34759a4c.js",
+    "static/css/2.69f3e74d.chunk.css",
+    "static/js/2.3a50ae49.chunk.js",
+    "static/css/main.f26a73ba.chunk.css",
+    "static/js/main.bab8f011.chunk.js"
+  ]
+}
