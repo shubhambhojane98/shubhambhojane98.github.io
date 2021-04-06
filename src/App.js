@@ -1,8 +1,8 @@
 import React from "react";
 import "rsuite/dist/styles/rsuite-default.css";
 import {
-  HashRouter,
-  HashRouter as Redirect,
+  HashRouter as Router,
+  Redirect,
   Route,
   Switch,
 } from "react-router-dom";
@@ -17,7 +17,7 @@ import "./index.css";
 function App() {
   return (
     <div className="App">
-      <HashRouter>
+      <Router>
         <Navbars />
         <Switch>
           <Route path="/" exact component={Home} />
@@ -26,7 +26,7 @@ function App() {
           <Route path="/contact" exact component={Contact} />
           <Redirect to="/" />
         </Switch>
-      </HashRouter>
+      </Router>
     </div>
   );
 }
